@@ -1,0 +1,84 @@
+Durée: 0:04:14
+additional vocals: Beau Nox
+album: Honestly, Nevermind
+albumartist: Drake
+albumartistsort: Drake
+albumsort: Honestly, Nevermind
+artist: Drake
+associated performer: Richard Zastenker, Beau Nox, Johannes Klahr, Mukengerwa Tresor Riziki
+background vocalist: Mukengerwa Tresor Riziki
+composer: Klahr, Gordo, Kid Masterpiece, GOVI, Beau Nox, Alex Lustig & LIOHN
+copyright: ℗ 2022 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc
+date: 2022-06-17
+discnumber: 1
+genre: Dance
+guitar: Richard Zastenker, Johannes Klahr
+isrc: USUG12204891
+label: OvO
+language: eng
+lyricist: Aubrey 'Drake' Graham
+lyrics: [00:00.02]It's getting late
+[00:03.62]Why you gotta be beside me?
+[00:09.63]Watching, needing, wanting me?
+[00:14.91]I'm afraid, don't be
+[00:18.88]I'm afraid, don't be
+[00:22.72]I'm afraid, don't be
+[00:26.63]I'm afraid, don't be
+[00:30.63]I'm afraid
+[00:32.49]Don't be, don't...
+[00:36.72]
+[00:50.81]
+[01:03.65]Lila
+[01:05.49]I know it's getting late, and I'm struggling to let go
+[01:12.54]Although there's distance between us, there's no place I'd rather be
+[01:20.39]I owe you some hospitality, and it comes so naturally
+[01:28.17]Promise, I just need some more time
+[01:32.18]If you can bear with me
+[01:34.58]When last did we feel this close together?
+[01:38.30]Chasing sunsets in California
+[01:42.33]Don't make me wait, babe, it's been forever
+[01:48.47]Don't take forever
+[01:52.46]It's been forever
+[01:56.36]Don't take forever
+[02:00.21]It's been forever
+[02:03.56]
+[02:06.24]Trust me, I'm starting to realize
+[02:11.02]And look beyond my fears
+[02:15.07]Sun keeps on turning to twilight
+[02:18.91]Baby, we don't have long
+[02:23.05]I can't keep my hands off you
+[02:26.98]All night, all my love
+[02:30.83]You say it's getting too late
+[02:34.79]Baby, don't be afraid
+[02:36.85]When last did we feel this close together?
+[02:41.06]Chasing sunsets in California
+[02:45.01]Don't make me wait, babe, it's been forever
+[02:51.18]Don't take forever
+[02:55.07]It's been forever
+[02:58.99]Don't take forever
+[03:02.91]It's been forever
+[03:08.20]Giddy up, girl, best I can do
+[03:11.72]Go follow where the wind blows, mmm
+[03:16.19]Sometimes, we all feel hollow
+[03:20.06]My heart, girl, you can borrow, mmm
+[03:23.62]Please don't make this all about you
+[03:27.53]Please don't make this all about you
+[03:31.45]Please don't make this all about you
+[03:35.30]Please don't make this all about you
+[03:37.71]
+mix engineer: Noah "40" Shebib & Luca Pretolesi
+mixer: Luca Pretolesi & Noah "40" Shebib
+originalalbum: Honestly, Nevermind
+originalartist: Drake
+originaldate: 2022-06-17
+producer: Klahr, Gordo, Kid Masterpiece, GOVI, Beau Nox, Alex Lustig & LIOHN
+programming: Richard Zastenker, Johannes Klahr
+recording engineer: Noel Cadastre
+studio personnel: Noah "40" Shebib, Luca Pretolesi, Noel Cadastre
+title: Flight's Booked
+totaldiscs: 1
+totaltracks: 14
+tracknumber: 9
+tracktotal: 14
+upc: 0602448173331
+version: None
